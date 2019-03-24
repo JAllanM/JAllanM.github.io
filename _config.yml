@@ -4,10 +4,10 @@
 permalink:           pretty
 
 # Setup
-title:               '> Your Name Here <'
+title:               '> Allan <'
 tagline:             '"something mathy"'
 description:         'Look ma, I have a website!'
-baseurl:             '/tmsc-workshop'
+baseurl:             ''
 paginate:            5
 markdown:            kramdown
 
@@ -24,7 +24,7 @@ kramdown:
 # About/contact
 author:
   name:              Your Name
-  url:               https://your-username.github.io
+  url:               https://JAllanM.github.io
   email:             youremail@email.com
 
 # Custom vars
